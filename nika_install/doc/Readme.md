@@ -11,7 +11,7 @@
 ## Требования по установке
 * **[ОС Linux](https://www.linux.org/pages/download/)**
 **или** **[Виртуальная машина с **Linux**](https://www.virtualbox.org)**
-* **[Git (система управления версий)](https://git-scm.com/install/)**
+* **[Git (система контроля версий)](https://git-scm.com/install/)**
 * **[Node.js (платформа для работы с JavaScript)](https://nodejs.org/en/download)**
 
 **Не рекомендуем использовать данный мануал для работы на WSL, из-за проблем с загрузкой sc-web** (возможно из-за отсутствия некоторых дистрибутивов).
